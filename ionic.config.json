@@ -1,0 +1,7 @@
+{
+  "name": "cs-pinning-test",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
